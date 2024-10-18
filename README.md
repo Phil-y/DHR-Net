@@ -71,10 +71,5 @@ python3 test_model.py
 
 
 
-## Citation
-
-If you find this work useful in your research or use this dataset in your work, please consider citing the following papers:
-
-
 
 
