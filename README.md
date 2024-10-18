@@ -63,10 +63,6 @@ python3 test_model.py
 
 
 
-## Reference
-
-- [TransUNet](https://github.com/Beckschen/TransUNet)
-- [UCTransNet](https://github.com/McGregorWwww/UCTransNet)
 
 
 
@@ -75,6 +71,31 @@ python3 test_model.py
 
 ## Qualitative Results on Synapse
 ![DHR-Net](Fig/qual_Synapse.jpg)
+
+
+
+## Reference
+
+- [TransUNet](https://github.com/Beckschen/TransUNet)
+
+- [UCTransNet](https://github.com/McGregorWwww/UCTransNet)
+- [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
+
+- [ACC_UNet](https://github.com/qubvel/segmentation_models.pytorch)
+
+- [UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch)
+- [EGE-UNet](https://github.com/JCruan519/EGE-UNet)
+- [MALUNet](https://github.com/JCruan519/MALUNet)
+
+- [MISSFormer](https://github.com/ZhifangDeng/MISSFormer)
+
+- [AttUNet](https://github.com/ozan-oktay/Attention-Gated-Networks)
+
+- [DLKAFormer](https://github.com/xmindflow/deformableLKA)
+
+- [TransCeption](https://github.com/xmindflow/TransCeption)
+
+
 
 
 
