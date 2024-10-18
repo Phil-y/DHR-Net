@@ -62,9 +62,13 @@ python3 test_model.py
 ```
 
 
+## Experimental results on the ISIC2018 dataset
+Comparative experimental results on the ISIC2018 dataset. Red represents the best result. \textcolor{blue}{Blue} indicates the second best result. All results are in ‘mean ± standard deviation’ format.
+![DHR-Net](Fig/com_isic.jpg)
 
-
-
+## Experimental results on the Synapse dataset
+Comparative experimental results on the Synapse dataset. \textcolor{red}{Red} represents the best result. \textcolor{blue}{Blue} indicates the second best result. Results for Dice and HD95 are expressed as “mean ± standard deviation”. AO(Aorta), GA(gallbladder), LK(left kidney), RK(right kidney), LI(liver), PA(pancreas), SP(spleen), and ST(stomach).
+![DHR-Net](Fig/com_synapse.jpg)
 
 ## Qualitative Results on ISIC2018
 ![DHR-Net](Fig/qual_2018.jpg)
@@ -75,24 +79,16 @@ python3 test_model.py
 
 
 ## Reference
-
 - [TransUNet](https://github.com/Beckschen/TransUNet)
-
 - [UCTransNet](https://github.com/McGregorWwww/UCTransNet)
 - [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
-
 - [ACC_UNet](https://github.com/qubvel/segmentation_models.pytorch)
-
 - [UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch)
 - [EGE-UNet](https://github.com/JCruan519/EGE-UNet)
 - [MALUNet](https://github.com/JCruan519/MALUNet)
-
 - [MISSFormer](https://github.com/ZhifangDeng/MISSFormer)
-
 - [AttUNet](https://github.com/ozan-oktay/Attention-Gated-Networks)
-
 - [DLKAFormer](https://github.com/xmindflow/deformableLKA)
-
 - [TransCeption](https://github.com/xmindflow/TransCeption)
 
 
