@@ -70,10 +70,10 @@ python3 test_model.py
 
 
 
-##Qualitative Results on ISIC2018
+## Qualitative Results on ISIC2018
 ![DHR-Net](Fig/qual_2018.jpg)
 
-##Qualitative Results on Synapse
+## Qualitative Results on Synapse
 ![DHR-Net](Fig/qual_Synapse.jpg)
 
 
