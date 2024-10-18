@@ -61,13 +61,13 @@ Then simply run the evaluation code.
 python3 test_model.py
 ```
 
-
+# Results
 ## Experimental results on the ISIC2018 dataset
-Comparative experimental results on the ISIC2018 dataset. Red represents the best result. \textcolor{blue}{Blue} indicates the second best result. All results are in ‘mean ± standard deviation’ format.
-![DHR-Net](Fig/com_isic.jpg)
+Comparative experimental results on the ISIC2018 dataset. Red represents the best result. Best results are shown in red, second best in blue. All results are in ‘mean ± standard deviation’ format.
+![DHR-Net](Fig/com_isic2018.jpg)
 
 ## Experimental results on the Synapse dataset
-Comparative experimental results on the Synapse dataset. \textcolor{red}{Red} represents the best result. \textcolor{blue}{Blue} indicates the second best result. Results for Dice and HD95 are expressed as “mean ± standard deviation”. AO(Aorta), GA(gallbladder), LK(left kidney), RK(right kidney), LI(liver), PA(pancreas), SP(spleen), and ST(stomach).
+Comparative experimental results on the Synapse dataset. Best results are shown in red, second best in blue. Results for Dice and HD95 are expressed as “mean ± standard deviation”. AO(Aorta), GA(gallbladder), LK(left kidney), RK(right kidney), LI(liver), PA(pancreas), SP(spleen), and ST(stomach).
 ![DHR-Net](Fig/com_synapse.jpg)
 
 ## Qualitative Results on ISIC2018
@@ -75,6 +75,7 @@ Comparative experimental results on the Synapse dataset. \textcolor{red}{Red} re
 
 ## Qualitative Results on Synapse
 ![DHR-Net](Fig/qual_Synapse.jpg)
+
 
 
 
