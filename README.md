@@ -1,4 +1,4 @@
-# MCS_Net
+# DHR-Net
 
 This repository is the official implementation of DHR-Net is Definitely What You Need for
 Medical Image Segmentation using PyTorch.
