@@ -29,8 +29,8 @@ pip install -r requirements.txt
 
 - The DDTI datasets, can be found [here](https://drive.google.com/drive/folders/1za9f38XKx-VYPxxb_xx83Dpk-Wg3Yaw8?usp=sharing)
 - The Kvasir-Seg  datasets, can be found [here](https://link.zhihu.com/?target=https%3A//datasets.simula.no/downloads/kvasir-seg.zip)
-- The  ISIC2018 datasets, can be found [here](https://challenge.isic-archive.com/data/)
-- The Synapse datasets, can be found [here](https://drive.google.com/drive/folders/1Vofe2TSVry0FZYLNisvPKvR_67aSj0ml?usp=sharing)
+- The ISIC2018 datasets, can be found [here](https://challenge.isic-archive.com/data/)
+- The Synapse datasets, can be found [here](https://drive.google.com/file/d/1vxZ_eqqyycFva3luuDKZSTtyfd8-Uv3B/view)
 
 
 
