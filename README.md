@@ -1,7 +1,7 @@
 # DHR-Net
 
 This repository is the official implementation of DHR-Net is Definitely What You Need for
-Medical Image Segmentation using PyTorch. Please read our preprint at the following link:(https://www.techrxiv.org/doi/full/10.36227/techrxiv.173161317.72325198/v1)
+Medical Image Segmentation using PyTorch. Please read our preprint at the following link:[address](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173161317.72325198/v1)
 
 ![DHR-Net](Fig/model.jpg)
 
