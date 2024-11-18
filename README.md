@@ -98,13 +98,12 @@ Comparative experimental results on the Synapse dataset. Best results are shown 
 
 If you find this work useful in your research or use this dataset in your work, please consider citing the following papers:
 ```
-@article{Yang_2024,
-title={DHR-Net is Definitely What You Need for Medical Image Segmentation},
-url={http://dx.doi.org/10.36227/techrxiv.173161317.72325198/v1},
-DOI={10.36227/techrxiv.173161317.72325198/v1},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-author={Yang, Yingwei and Huang, Haiguang and Chen, Huiling and Shao, Yingsheng and Zhang, Zhihan and Chen, Beilei},
-year={2024},
-month=nov }
+@article{yang2024dhr,
+  title={DHR-Net is Definitely What You Need for Medical Image Segmentation},
+  author={Yang, Yingwei and Huang, Haiguang and Chen, Huiling and Shao, Yingsheng and Zhang, Zhihan and Chen, Beilei},
+  journal={Authorea Preprints},
+  year={2024},
+  publisher={Authorea}
+}
 ```
 
