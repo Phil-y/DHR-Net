@@ -36,31 +36,6 @@ pip install -r requirements.txt
 
 
 
-## Train the Model
-
-First, modify the model, dataset and training hyperparameters (including learning rate, batch size img size and optimizer etc) in `Config.py`
-
-Then simply run the training code.
-
-```
-python3 train_model.py
-```
-
-
-
-## Evaluate the Model
-
-#### 2. Test the Model
-
-Please make sure the right model, dataset and hyperparameters setting  is selected in `Config.py`. 
-
-Then change the test_session in `Config.py` .
-
-Then simply run the evaluation code.
-
-```
-python3 test_model.py
-```
 
 # Results
 ## Experimental results on the ISIC2018 dataset
