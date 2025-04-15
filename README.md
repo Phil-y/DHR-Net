@@ -36,25 +36,6 @@ pip install -r requirements.txt
 
 
 
-
-# Results
-## Experimental results on the ISIC2018 dataset
-Comparative experimental results on the ISIC2018 dataset. Red represents the best result. Best results are shown in red, second best in blue. All results are in ‘mean ± standard deviation’ format.
-![DHR-Net](Fig/com_isic2018.jpg)
-
-## Experimental results on the Synapse dataset
-Comparative experimental results on the Synapse dataset. Best results are shown in red, second best in blue. Results for Dice and HD95 are expressed as “mean ± standard deviation”. AO(Aorta), GA(gallbladder), LK(left kidney), RK(right kidney), LI(liver), PA(pancreas), SP(spleen), and ST(stomach).
-![DHR-Net](Fig/com_synapse.jpg)
-
-## Qualitative Results on ISIC2018
-![DHR-Net](Fig/qual_2018.jpg)
-
-## Qualitative Results on Synapse
-![DHR-Net](Fig/qual_Synapse.jpg)
-
-
-
-
 ## Reference
 - [TransUNet](https://github.com/Beckschen/TransUNet)
 - [UCTransNet](https://github.com/McGregorWwww/UCTransNet)
@@ -68,16 +49,5 @@ Comparative experimental results on the Synapse dataset. Best results are shown 
 - [TransCeption](https://github.com/xmindflow/TransCeption)
 
 
-## Citation
 
-If you find this work useful in your research or use this dataset in your work, please consider citing the following papers:
-```
-@article{yang2024dhr,
-  title={DHR-Net is Definitely What You Need for Medical Image Segmentation},
-  author={Yang, Yingwei and Huang, Haiguang and Chen, Huiling and Shao, Yingsheng and Zhang, Zhihan and Chen, Beilei},
-  journal={Authorea Preprints},
-  year={2024},
-  publisher={Authorea}
-}
-```
 
