@@ -2,7 +2,7 @@
 
 This repository is the official implementation of DHR-Net is Definitely What You Need for
 Medical Image Segmentation using PyTorch. 
-#### Please read our preprint at the following link: (https://www.techrxiv.org/doi/full/10.36227/techrxiv.173161317.72325198/v1)
+
 
 ![DHR-Net](Fig/model.jpg)
 
@@ -61,7 +61,6 @@ Comparative experimental results on the Synapse dataset. Best results are shown 
 - [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
 - [ACC_UNet](https://github.com/qubvel/segmentation_models.pytorch)
 - [UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch)
-- [EGE-UNet](https://github.com/JCruan519/EGE-UNet)
 - [MALUNet](https://github.com/JCruan519/MALUNet)
 - [MISSFormer](https://github.com/ZhifangDeng/MISSFormer)
 - [AttUNet](https://github.com/ozan-oktay/Attention-Gated-Networks)
