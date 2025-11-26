@@ -28,10 +28,11 @@ pip install -r requirements.txt
 
 ## Prepare the dataset.
 
-- The DDTI datasets, can be found [here](https://drive.google.com/drive/folders/1za9f38XKx-VYPxxb_xx83Dpk-Wg3Yaw8?usp=sharing)
-- The Kvasir-Seg  datasets, can be found [here](https://link.zhihu.com/?target=https%3A//datasets.simula.no/downloads/kvasir-seg.zip)
-- The ISIC2018 datasets, can be found [here](https://challenge.isic-archive.com/data/)
-- The Synapse datasets, can be found [here](https://drive.google.com/file/d/1vxZ_eqqyycFva3luuDKZSTtyfd8-Uv3B/view)
+- The DDTI datasets, can be found here ([Google Drive](https://drive.google.com/file/d/1FfrVeiL7F5375BOAATz2s1J_jD-gTTbW/view?usp=drive_link))
+- The CVC-ClinicDB datasets, can be found here ([Google Drive](https://drive.google.com/file/d/11qhaiePeOzI-wdQqwJJQ_bE8iKeSoMMZ/view?usp=drive_link))
+- The Kvasir-SEG datasets, can be found ([Google Drive](https://drive.google.com/file/d/1Yz1rCYDSaDCR8WHLXCyQBdETUwM-8w_N/view?usp=drive_link))
+- The ISIC2017 datasets, can be found here ([Google Drive](https://drive.google.com/file/d/1h-DnH5u2VxNLz3k4Bz8p_r5X5rQO7aHZ/view?usp=drive_link))
+- The Synapse datasets, can be found ([Google Drive](https://drive.google.com/file/d/1c2oK6-LeUtrOdVNpbft5dpbatRoFrBIm/view?usp=drive_link))
 
 
 
@@ -43,10 +44,8 @@ pip install -r requirements.txt
 - [ACC_UNet](https://github.com/qubvel/segmentation_models.pytorch)
 - [UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch)
 - [MALUNet](https://github.com/JCruan519/MALUNet)
-- [MISSFormer](https://github.com/ZhifangDeng/MISSFormer)
-- [AttUNet](https://github.com/ozan-oktay/Attention-Gated-Networks)
-- [DLKAFormer](https://github.com/xmindflow/deformableLKA)
-- [TransCeption](https://github.com/xmindflow/TransCeption)
+- [DLKA-Net](https://github.com/xmindflow/deformableLKA)
+
 
 
 
