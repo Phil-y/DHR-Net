@@ -38,9 +38,8 @@ pip install -r requirements.txt
 
 
 ## Reference
-- [TransUNet](https://github.com/Beckschen/TransUNet)
 - [UCTransNet](https://github.com/McGregorWwww/UCTransNet)
-- [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
+- [Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet)
 - [ACC_UNet](https://github.com/qubvel/segmentation_models.pytorch)
 - [UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch)
 - [MALUNet](https://github.com/JCruan519/MALUNet)
