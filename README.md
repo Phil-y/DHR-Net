@@ -1,7 +1,6 @@
 # DHR-Net
 
-This repository is the official implementation of DHR-Net is Definitely What You Need for
-Medical Image Segmentation using PyTorch. 
+This repository is the official implementation of DHR-Net: An Ultra-Lightweight U-Net Based on Efficient Convolutional Attention for Medical Image Segmentation using PyTorch. 
 
 
 ![DHR-Net](Fig/model.jpg)
