@@ -31,7 +31,7 @@ pip install -r requirements.txt
 - The DDTI datasets, can be found here ([Google Drive](https://drive.google.com/file/d/1FfrVeiL7F5375BOAATz2s1J_jD-gTTbW/view?usp=drive_link))
 - The CVC-ClinicDB datasets, can be found here ([Google Drive](https://drive.google.com/file/d/11qhaiePeOzI-wdQqwJJQ_bE8iKeSoMMZ/view?usp=drive_link))
 - The Kvasir-SEG datasets, can be found ([Google Drive](https://drive.google.com/file/d/1Yz1rCYDSaDCR8WHLXCyQBdETUwM-8w_N/view?usp=drive_link))
-- The ISIC2017 datasets, can be found here ([Google Drive](https://drive.google.com/file/d/1h-DnH5u2VxNLz3k4Bz8p_r5X5rQO7aHZ/view?usp=drive_link))
+- The ISIC2018 datasets, can be found here ([Google Drive](https://drive.google.com/file/d/1ED2SHeE43-Rm6xikerhQ0OuthpENdMK1/view?usp=drive_link))
 - The Synapse datasets, can be found ([Google Drive](https://drive.google.com/file/d/1c2oK6-LeUtrOdVNpbft5dpbatRoFrBIm/view?usp=drive_link))
 
 
