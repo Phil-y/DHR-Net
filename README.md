@@ -1,6 +1,4 @@
 # [Displays2026]DHR-Net
-
-This repository is the official implementation of DHR-Net: An ultra-lightweight U-Net based on efficient convolutional attention for medical image segmentation using PyTorch. 
 🔥🔥This repo is the official implementation of
 ['DHR-Net: An ultra-lightweight U-Net based on efficient convolutional attention for medical image segmentation'](https://doi.org/10.1016/j.displa.2026.103425), accepted at Displays2026🔥🔥
 
