@@ -46,7 +46,6 @@ pip install -r requirements.txt
 
 
 ## Citation
-
 If you find this work useful in your research or use this dataset in your work, please consider citing the following papers:
 ``
 @article{yang2026dhr,
