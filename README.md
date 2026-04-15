@@ -1,6 +1,4 @@
 # [Displays2026]DHR-Net
-🔥🔥This repo is the official implementation of
-['DHR-Net: An ultra-lightweight U-Net based on efficient convolutional attention for medical image segmentation'](https://doi.org/10.1016/j.displa.2026.103425), accepted at Displays2026🔥🔥
 
 ![DHR-Net](Fig/model.jpg)
 
@@ -45,18 +43,6 @@ pip install -r requirements.txt
 
 
 
-## Citation
-If you find this work useful in your research or use this dataset in your work, please consider citing the following papers:
-```
-@article{yang2026dhr,
-  title={DHR-Net: An ultra-lightweight U-Net based on efficient convolutional attention for medical image segmentation},
-  author={Yang, Yingwei and Huang, Haiguang and Zhang, Guodao and Sun, Hong and Li, Zongpeng and Chen, Huiling},
-  journal={Displays},
-  pages={103425},
-  year={2026},
-  publisher={Elsevier}
-}
-```
 
 
 
