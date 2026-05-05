@@ -1,4 +1,4 @@
-# [Displays2026]DHR-Net
+# DHR-Net
 
 ![DHR-Net](Fig/model.jpg)
 
