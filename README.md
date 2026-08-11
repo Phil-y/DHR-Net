@@ -1,6 +1,6 @@
 # DHR-Net
 
-![DHR-Net](Fig/model.jpg)
+![DHR-Net](Fig/model.png)
 
 
 
