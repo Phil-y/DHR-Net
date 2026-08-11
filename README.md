@@ -23,11 +23,11 @@ pip install -r requirements.txt
 
 
 ## Prepare the dataset.
-
-- The DDTI datasets, can be found here ([Google Drive](https://drive.google.com/file/d/1FfrVeiL7F5375BOAATz2s1J_jD-gTTbW/view?usp=drive_link))
-- The CVC-ClinicDB datasets, can be found here ([Google Drive](https://drive.google.com/file/d/11qhaiePeOzI-wdQqwJJQ_bE8iKeSoMMZ/view?usp=drive_link))
-- The Kvasir-SEG datasets, can be found ([Google Drive](https://drive.google.com/file/d/1Yz1rCYDSaDCR8WHLXCyQBdETUwM-8w_N/view?usp=drive_link))
-- The ISIC2018 datasets, can be found here ([Google Drive](https://drive.google.com/file/d/1ED2SHeE43-Rm6xikerhQ0OuthpENdMK1/view?usp=drive_link))
+- The DDTI datasets, can be found here ([link](http://cimalab.intec.co/applications/thyroid/))
+- The CVC-ClinicDB datasets, can be found here ([link](https://polyp.grand-challenge.org/CVCClinicDB/))
+- The Kvasir-SEG datasets, can be found ([link](https://link.zhihu.com/?target=https%3A//datasets.simula.no/downloads/kvasir-seg.zip))
+- The Synapse datasets, can be found ([link](https://www.synapse.org/Synapse:syn3193805/wiki/89480))
+- The ISIC2018 datasets, can be found here ([link](https://challenge.isic-archive.com/data/))
 
 
 
