@@ -1,10 +1,3 @@
-# DHR-Net
-
-![DHR-Net](Fig/model.png)
-
-
-
-
 
 ## Citation
 
