@@ -1,8 +1,8 @@
 # PMS_Net
 
-This repository is the official implementation of PMS-Net: A Lightweight Convolutional Attention U-Shaped Network for Medical Image Segmentation using PyTorch.
+This repository is the official implementation of DHR-Net: An ultra-lightweight U-Net based on efficient convolutional attention for medical image segmentation using PyTorch.
 
-![PMS-Net](Fig/model.jpg)
+![PMS-Net](Fig/model.png)
 
 
 
@@ -25,12 +25,10 @@ pip install -r requirements.txt
 
 ## Prepare the dataset.
 
-- The GlaS  datasets, can be found here ([link]())
-- The MoNuSeg  datasets, can be found here ([link]())
-- The CHASE datasets, can be found here ([link]())
-- The BUSI datasets, can be found here ([link]()),
-- The Chest Xray datasets, can be found here ([link]())
-- The ISIC2017 datasets, can be found here ([link]())
+- The Kvasir-Seg  datasets, can be found here ([link]())
+- The CVC-ClinicDB datasets, can be found here ([link]())
+- The DDTI datasets, can be found here ([link]())
+- The ISIC2018 datasets, can be found here ([link]()),
 - The Synapse datasets, can be found ([link]())
 
 
