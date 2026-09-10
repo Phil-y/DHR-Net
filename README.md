@@ -1,8 +1,8 @@
-# PMS_Net
+# DHR-Net
 
 This repository is the official implementation of DHR-Net: An ultra-lightweight U-Net based on efficient convolutional attention for medical image segmentation using PyTorch.
 
-![PMS-Net](Fig/model.png)
+![DHR-Net](model.png)
 
 
 
@@ -26,10 +26,10 @@ pip install -r requirements.txt
 ## Prepare the dataset.
 
 - The Kvasir-Seg  datasets, can be found here ([link]())
-- The CVC-ClinicDB datasets, can be found here ([link]())
+- The CVC-ClinicDB datasets, can be found here ([link](https://polyp.grand-challenge.org/CVCClinicDB/))
 - The DDTI datasets, can be found here ([link]())
-- The ISIC2018 datasets, can be found here ([link]()),
-- The Synapse datasets, can be found ([link]())
+- The ISIC2018 datasets, can be found here ([link](https://challenge.isic-archive.com/data/#2018))
+- The Synapse datasets, can be found ([link](https://www.synapse.org/#!Synapse:syn3193805/wiki/))
 
 
 
